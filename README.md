@@ -202,3 +202,14 @@ For support or inquiries:
 ---
 Developed by **Debasish Tripathy** © 2025 | For educational purposes only
 
+### AI Generated report analysis
+![Screenshot_2025-02-28_19_15_27](https://github.com/user-attachments/assets/a37e20f0-71c0-4529-8679-4b37a9d6eef0)
+
+### Application
+![Screenshot_2025-02-28_19_15_32](https://github.com/user-attachments/assets/0424618c-69bc-4850-9b49-a79058397e94)
+
+### Easy JSON Downloader
+![Screenshot_2025-02-28_19_15_51](https://github.com/user-attachments/assets/25f44401-a825-4031-8cce-c789aac219f3)
+
+
+
