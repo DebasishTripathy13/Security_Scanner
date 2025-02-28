@@ -1,0 +1,6 @@
+{
+    "nmap": {
+        "status": "success",
+        "output": "Starting Nmap 7.95 ( https://nmap.org ) at 2025-02-28 14:47 IST\nNmap scan report for google.com (142.250.182.78)\nHost is up (0.0051s latency).\nOther addresses for google.com (not scanned): 2404:6800:4009:81f::200e\nrDNS record for 142.250.182.78: maa05s20-in-f14.1e100.net\nNot shown: 997 filtered tcp ports (no-response)\nPORT    STATE SERVICE\n53/tcp  open  domain\n80/tcp  open  http\n443/tcp open  https\n\nNmap done: 1 IP address (1 host up) scanned in 6.48 seconds\n"
+    }
+}
